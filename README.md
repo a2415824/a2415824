@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @a2415824
-- 👀 I’m interested in ...apis
+- 👋 Hi, I’m PRAVEEN 
+- 👀 I’m interested in ...future 
 - 🌱 I’m currently learning ...android development
 - 💞️ I’m looking to collaborate on ...isro
 - 📫 you can reach me by a2415824@gmail.com
