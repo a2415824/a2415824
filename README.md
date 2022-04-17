@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PRAVEEN 
 - 👀 I’m interested in ...future 
-- 🌱 I’m currently learning ...android development
+- 🌱 I’m currently learning ...blockchain metaverse like technologies. 
 - 💞️ I’m looking to collaborate on ...isro
 - 📫 you can reach me by a2415824@gmail.com
 
